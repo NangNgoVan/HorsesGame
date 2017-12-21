@@ -1,0 +1,28 @@
+Node version: v6.9.2
+
+Cordova version: 7.1.0
+
+Config.xml file: 
+
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Cờ điểm</name>
+    <description>
+        Ứng dụng game demo.
+    </description>
+    <author email="nangnv2641@gmail.com" href="">
+       NangNgo
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <plugin name="cordova-plugin-file" spec="~5.0.0" />
+    <flatform name="android"/>
+</widget>
+
+
+Plugins: 
+
+cordova-plugin-file
+
+
+

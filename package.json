@@ -1,0 +1,25 @@
+{
+  "name": "codiem-ai",
+  "version": "1.0.0",
+  "description": "this is a puzzle game!",
+  "main": "index.js",
+  "dependencies": {
+    "cordova-android": "^5.1.1",
+    "cordova-browser": "^5.0.1",
+    "cordova-plugin-file": "~5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nangngo",
+  "license": "ISC",
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-file": {}
+    },
+    "platforms": [
+      "android"
+    ]
+  }
+}

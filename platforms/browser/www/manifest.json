@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Cờ điểm",
+  "short_name": "Cờ điểm",
+  "version": "com.phonegap.helloworld",
+  "description": "Ứng dụng game demo.",
+  "author": "NangNgo",
+  "icons": [],
+  "start_url": "index.html"
+}
